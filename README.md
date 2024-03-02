@@ -13,4 +13,4 @@
 
 
 
-![Untitled design](https://github.com/K-Pragna/Tribute-Page/assets/158297257/470b9fe0-b6ea-4e65-af24-af003291362c)
+![Untitled design](https://k-pragna.github.io/Tribute-Page/Tribute%20Page/index.html)
